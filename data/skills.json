@@ -18,28 +18,32 @@
 			]
 		},
 		{
-			"name": "Graphics / Image Processing / Design",
+			"name": "Concepts",
 			"skills": [
 				{
-					"name": "OpenCV / OpenMPI",
-					"value": "60%"
+					"name": "Algorithms",
+					"value": "70%"
 				},
 				{
-					"name": "Adobe Photoshop",
-					"value": "60%"
+					"name": "Data Structures",
+					"value": "70%"
+				},
+				{
+					"name": "Networking",
+					"value": "90%" 
+				},
+				{
+					"name": "Operating Systems",
+					"value": "80%"
+				},
+				{
+					"name": "DataBase ManageMent Systems",
+					"value": "90%"
 				}
 				
 			]
 		},
-		{
-			"name": "Mobile App Development",
-			"skills": [
-				{
-					"name": "Android",
-					"value": "80%"
-				}
-			]
-		},
+
 		{
 			"name": "Web",
 			"skills": [
@@ -75,6 +79,30 @@
 				{
 					"name": "Google App Scripts",
 					"value": "60%"
+				}
+			]
+		},
+		{
+			"name": "Graphics / Image Processing / Design",
+			"skills": [
+				{
+					"name": "OpenCV / OpenMPI",
+					"value": "60%"
+				},
+				{
+					"name": "Adobe Photoshop",
+					"value": "60%"
+				}
+				
+			]
+		},
+
+		{
+			"name": "Mobile App Development",
+			"skills": [
+				{
+					"name": "Android",
+					"value": "80%"
 				}
 			]
 		},
