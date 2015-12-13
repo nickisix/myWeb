@@ -394,6 +394,24 @@ div.page-header.one.extra-header{
   .nav.navmenu-nav li.extra-color:hover a span::before{
     color: #fff;
   }
+  
+  div.page-header.one.hobby-header{
+  background-color: #ff69b4;
+}
+  
+ .hobby-color:hover{
+  background-color: #ff69b4;
+  color: #fff;
+}
+
+  .nav.navmenu-nav li.hobby-color:hover a {
+    color: #fff;
+  }
+
+  .nav.navmenu-nav li.hobby-color:hover a span::before{
+    color: #fff;
+  }
+  
 
 .nav.navmenu-nav li {
   -moz-transition: 0.5s;

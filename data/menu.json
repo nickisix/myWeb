@@ -48,6 +48,12 @@
 					"icon": "icon icon-dribbble",
 					"link": "#/extra-curricular",
 					"colorClass": "extra-color"
+				},
+{
+					"title": "Hobbies",
+					"icon": "icon icon-camera",
+					"link": "#",
+					"colorClass": "hobby-color"
 				}
 			]
 		},
