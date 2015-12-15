@@ -52,7 +52,7 @@
 {
 					"title": "Hobbies",
 					"icon": "icon icon-camera",
-					"link": "#/hobbies",
+					"link": "#/hobby",
 					"colorClass": "hobby-color"
 				}
 			]
