@@ -51,9 +51,9 @@
 				},
 {
 					"title": "Hobbies",
-					"icon": "icon icon-camera",
-					"link": "#/hobbies",
-					"colorClass": "hobby-color"
+					"icon": "icon icon-dribbble",
+					"link": "#/extra-curricular",
+					"colorClass": "extra-color"
 				}
 			]
 		},

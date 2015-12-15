@@ -39,6 +39,10 @@
 				{
 					"name": "DataBase ManageMent Systems",
 					"value": "90%"
+				},
+				{
+					"name": "Software Engineering Technologies",
+					"value": "90%"
 				}
 				
 			]
@@ -75,6 +79,11 @@
 				{
 					"name": "JSP",
 					"value": "80%"
+				},
+				{
+					"name": "NodeJS",
+					"value" : "50%" 
+
 				},
 				{
 					"name": "Google App Scripts",
