@@ -133,6 +133,19 @@
 			]
 		},
 		{
+			"name": "Operating Systems",
+			"skills": [
+				{
+					"name": "Windows",
+					"value": "95%"
+				},
+				{
+					"name": "Linux",
+					"value": "90%"
+				}
+			]
+		},
+		{
 			"name": "Version Control",
 			"skills": [
 				{
