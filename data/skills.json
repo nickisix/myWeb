@@ -68,6 +68,11 @@
 					"value": "50%"
 				},
 				{
+					"name": "NodeJS",
+					"value" : "50%" 
+
+				},
+				{
 					"name": "Django",
 					"value": "50%"
 
@@ -79,11 +84,6 @@
 				{
 					"name": "JSP",
 					"value": "80%"
-				},
-				{
-					"name": "NodeJS",
-					"value" : "50%" 
-
 				},
 				{
 					"name": "Google App Scripts",
